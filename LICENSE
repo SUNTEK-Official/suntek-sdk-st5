@@ -1,0 +1,30 @@
+SUNTEK Commercial SDK License
+
+Copyright (c) 2026 SUNTEK Technology Co., Ltd. All rights reserved.
+
+This Software Development Kit ("SDK"), including any precompiled libraries (.aar, .jar,
+.so, .dll, .a), header files, drivers, firmware interface definitions, and accompanying
+documentation provided in this repository, is the proprietary intellectual property of
+SUNTEK Technology Co., Ltd. ("SUNTEK").
+
+1. Grant of License
+SUNTEK grants Licensee a limited, non-exclusive, non-transferable, revocable license to
+integrate and distribute the compiled SDK runtime libraries solely in connection with
+applications operating on genuine SUNTEK-branded commercial hardware products.
+
+2. Restrictions
+Licensee shall NOT:
+(a) reverse engineer, decompile, disassemble, or attempt to derive the source code or
+    proprietary protocols of any closed-source binary components in this SDK;
+(b) use, port, or redistribute the SDK libraries to operate with non-SUNTEK hardware;
+(c) remove or alter any SUNTEK copyright, trademark, or proprietary notice.
+
+3. Reference Sample Code
+Sample application source code explicitly marked as Apache-2.0 in subdirectories may be
+modified and redistributed under the Apache License, Version 2.0, solely for targeting
+SUNTEK hardware unless otherwise restricted above.
+
+4. Disclaimer of Warranty
+THIS SDK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.

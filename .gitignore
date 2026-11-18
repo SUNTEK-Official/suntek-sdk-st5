@@ -1,0 +1,46 @@
+# Prebuilt binaries & archives (publish via GitHub Releases with SHA256SUMS.txt)
+*.apk
+*.aab
+*.ap_
+*.exe
+*.msi
+*.zip
+*.rar
+*.7z
+*.rkllm
+*.onnx
+
+# Signing keys & credentials (NEVER commit keys or passwords)
+*.pk8
+*.pem
+*.jks
+*.keystore
+*.p12
+*.pfx
+signing.properties
+local.properties
+
+# Gradle & Android build artifacts
+.gradle/
+build/
+*/build/
+out/
+captures/
+*.hprof
+problems-report.html
+
+# IDE, OS & AI tool artifacts
+.idea/
+.vscode/
+.vs/
+.claude/
+.workbuddy/
+.cursor/
+__MACOSX/
+.DS_Store
+Thumbs.db
+._*
+~$*
+*.log
+*.bak
+backup/
